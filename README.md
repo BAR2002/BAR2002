@@ -4,7 +4,7 @@ Software Engineer @ Aristocrat
 - 🎓 Bharathiar university - coimbatore
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ML/AI
-- 😄 Pronouns: Tecie
+- 😄 Pronouns: Techie
 
 ## - Reach me on
 [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/linkedin-logo.png" alt="linkedin-logo"/>](https://www.linkedin.com/in/barath-b-253489260/)
